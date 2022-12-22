@@ -1,0 +1,19 @@
+1__Almond 250g__35.43
+3__Skate rental__30.0
+1__FIJI Natural Artesian Water__25.98
+2__Wrangler Men's Stretch Cargo Pant__19.97
+4__Sensodyne Pronamel Toothpaste__19.74
+2__Men's Dual Defense Crew Socks 12 Pairs__13.0
+3__LEGO DUPLO Town Farm Animals__10.1
+4__Chick-fil-A $10 Gift Card__10.0
+3__Cinema__8.73
+2__Gildan LT__8.61
+1__Hershey's milk chocolate bars__8.54
+1__Keystone Ground Bee__6.28
+1__Red Fuji Apple__5.99
+1__Eggs__3.99
+1__Milk__3.5
+4__Debt__3.5
+1__Great Value Broccoli Florets__1.0
+0__Total__214.36
+0__Income__1000
